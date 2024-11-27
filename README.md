@@ -1,6 +1,6 @@
 # Hi there, I am YTGS 👋
 
-I am a 16 year old web developer from Asia focused on creating beautiful and functional websites. I also make Discord Bots and Minecraft Plugins too.
+I am a 18 year old web developer from Asia focused on creating beautiful and functional websites. I also make Discord Bots and Minecraft Plugins too.
 
 ## Currently Working on:
 1. [Peloq Game Store](https://peloq.com) -> Website Developer
