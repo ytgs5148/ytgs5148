@@ -2,11 +2,6 @@
 
 I am a 18 year old web developer from Asia focused on creating beautiful and functional websites. I also make Discord Bots and Minecraft Plugins too.
 
-## Currently Working on:
-1. [Peloq Game Store](https://peloq.com) -> Website Developer
-2. [Serendipity]() -> Minecraft Plugin Developer
-3. [Personal Website]() -> Website
-
 ## Languages and Tools:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
